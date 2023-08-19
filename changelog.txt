@@ -1,0 +1,4 @@
+*** WooDevz Fake Sales Notification For Woocommercec Changelog ***
+
+2023-04-04 - version 1.0.0
+ * Initial release
